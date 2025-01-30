@@ -1,0 +1,17 @@
+x=10
+y=20
+print(x&y)
+x=10
+y=20
+print(x|y)
+x=10
+print(~x)
+x=10
+y=20
+print(x^y)
+x=10
+print(x<<2)
+x=10
+print(x>>2)
+x=20
+print(x>>)
